@@ -1,0 +1,6 @@
+pandas
+chardet
+matplotlib
+seaborn
+numpy
+sqlparse
